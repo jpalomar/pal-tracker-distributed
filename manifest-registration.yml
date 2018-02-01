@@ -4,8 +4,6 @@ applications:
   host: registration-pal-jr
   memory: 1G
   instances: 1
-  env:
-    REGISTRATION_SERVER_ENDPOINT: http://registration-pal-jr.apps.turducken.pal.pivotal.io
   services:
   - tracker-registration-database
 #  - tracker-service-registry
