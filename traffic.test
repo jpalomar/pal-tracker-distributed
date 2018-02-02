@@ -1,0 +1,6 @@
+https://registration-pal-jr.apps.pal.pivotal.io/users/123
+https://registration-pal-jr.apps.pal.pivotal.io/accounts?ownerId=123
+https://registration-pal-jr.apps.pal.pivotal.io/projects?accountId=456
+https://allocations-pal-jr.apps.pal.pivotal.io/allocations?projectId=789
+https://backlog-pal-jr.apps.pal.pivotal.io/stories?projectId=789
+https://timesheets-pal-jr.apps.pal.pivotal.io/time-entries?userId=123
